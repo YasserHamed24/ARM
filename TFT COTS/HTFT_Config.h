@@ -1,0 +1,8 @@
+#ifndef HTFT_CONFIG_H_
+#define HTFT_CONFIG_H_
+
+
+#define HTFT_A0_PIN       MGPIOA_PORT,MGPIO_PIN2
+#define HTFT_RST_PIN      MGPIOA_PORT,MGPIO_PIN1
+
+#endif
